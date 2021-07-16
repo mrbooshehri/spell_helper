@@ -18,7 +18,7 @@ There is a database of words in audio format, then a file will play and wait for
 This is not a professional commercial program, first of all I'm doing to have fun. Second I'm trying to learn python programming so it's going to help me a lot to learn and understand it better. I was planning to make a terminal-based program but I changed my mind. Theses are the steps of implementation
 
 1. It's going to be written with ```Python```
-2. Use ```mysql``` as database
+2. Use ```sqlite``` as database
 3. For GUI ```Qt``` will be used
 4. Audio pronunciations files will get from google translate using this [API](https://dictionaryapi.dev/)
 
